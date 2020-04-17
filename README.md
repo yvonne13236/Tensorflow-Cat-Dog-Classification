@@ -24,3 +24,4 @@ steps per epoch: num_samples/batch_size
 Great resources to learn CNN and its architecture in Kera:
 1. https://machinelearningmastery.com/keras-functional-api-deep-learning/
 2. https://keras.io/getting-started/sequential-model-guide/
+3.https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca
